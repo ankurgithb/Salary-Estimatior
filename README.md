@@ -11,10 +11,10 @@ This project was built using Python and Scikit-learn to understand the complete 
 
 
 Evaluates model performance using:-
-     MAE,
-     MSE,
-     RMSE,
-     R² Score
+ MAE,
+ MSE,
+ RMSE,
+ R² Score
 
 
 Technologies Used:-
